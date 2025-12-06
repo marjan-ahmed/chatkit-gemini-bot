@@ -3,10 +3,10 @@
 ## Metadata
 - **Name**: chatkit-frontend
 - **Category**: setup
-- **Tags**: chatkit, frontend, react, vite, typescript
+- **Tags**: chatkit, frontend, react, typescript
 
 ## Description
-Creates a ChatKit React frontend with Vite, TypeScript, dark theme, and conversation persistence.
+Creates a ChatKit React frontend with TypeScript, dark theme, and conversation persistence. Template uses Vite but works with any React framework (Next.js, CRA, Docusaurus, etc.).
 
 ## Inputs
 | Parameter | Type | Required | Default | Description |

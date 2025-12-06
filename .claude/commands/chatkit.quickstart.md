@@ -2,6 +2,8 @@
 description: Create a complete ChatKit full-stack application with backend (Python/FastAPI/Gemini) and frontend (React/Vite)
 ---
 
+<!-- Note: Frontend can use any React framework (Vite, Next.js, CRA, etc.) -->
+
 ## User Input
 
 ```text

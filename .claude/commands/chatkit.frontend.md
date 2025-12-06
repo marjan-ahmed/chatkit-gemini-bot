@@ -2,6 +2,8 @@
 description: Set up a ChatKit React frontend with Vite and TypeScript
 ---
 
+<!-- Note: This template uses Vite but the ChatKit React integration works with any React framework (Next.js, CRA, Docusaurus, etc.) -->
+
 ## User Input
 
 ```text

@@ -308,5 +308,5 @@ if FRONTEND_DIR.exists():
 
 if __name__ == "__main__":
     import uvicorn
-    print("Starting ChatKit Gemini server at http://localhost:8000")
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    print("Starting ChatKit Gemini server at http://localhost:8001")
+    uvicorn.run(app, host="0.0.0.0", port=8001)

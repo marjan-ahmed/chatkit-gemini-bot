@@ -35,7 +35,7 @@ cd ..
 # Start both servers
 echo
 echo "Starting servers..."
-echo "  Backend:  http://localhost:8000"
+echo "  Backend:  http://localhost:8001"
 echo "  Frontend: http://localhost:3000"
 echo
 echo "Press Ctrl+C to stop"
